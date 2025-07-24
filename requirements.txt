@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+dvc
+mlflow>=2.0
+fastapi
+uvicorn
+streamlit
+numpy
+pydantic

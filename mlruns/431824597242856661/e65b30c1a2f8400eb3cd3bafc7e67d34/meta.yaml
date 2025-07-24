@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/kali/MALLA%20REDDY%20clg/DAY-20%20MLops/mlops_project/mlruns/431824597242856661/e65b30c1a2f8400eb3cd3bafc7e67d34/artifacts
+end_time: 1753334257630
+entry_point_name: ''
+experiment_id: '431824597242856661'
+lifecycle_stage: active
+run_id: e65b30c1a2f8400eb3cd3bafc7e67d34
+run_name: redolent-cod-627
+run_uuid: e65b30c1a2f8400eb3cd3bafc7e67d34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753334250075
+status: 3
+tags: []
+user_id: User
